@@ -51,11 +51,15 @@
 | | [`10_esercitazioni_ufficiali/esercitazione_9.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_9.md) | **Es. 9:** 9 funzioni: dizionari, frequenze, coppie di parole, Quadrato Latino | ✅ Indicizzato |
 | | [`10_esercitazioni_ufficiali/esercitazione_10.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_10.md) | **Es. 10:** 9 funzioni: CSV, basket, amici/nemici, IP, codici fiscali, eredità, calcio | ✅ Indicizzato |
 | | [`10_esercitazioni_ufficiali/esercitazione_12.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_12.md) | **Es. 12 (OOP):** 7 funzioni su classi `Tempo`, `Persona`, `Squadra`, `Partita` | ✅ Indicizzato |
-| **11. Simulazione Prova d'Esame** | [`11_simulazione_esame/simulazione_15_dicembre_2025.md`](file:///c:/App/PY%20game/wiki/11_simulazione_esame/simulazione_15_dicembre_2025.md) | **Prova d'Esame Ufficiale (15 Dic 2025 - Lab 11):** 3 compiti d'esame da 90 min (parola simmetrica, anagrammi incrociati, menù & disponibilità ristorante) | ✅ Indicizzato |
+| **11. Simulazione Prova d'Esame** | [`11_simulazione_esame/simulazione_15_dicembre_2025.md`](file:///c:/App/PY%20game/wiki/11_simulazione_esame/simulazione_15_dicembre_2025.md) | Prova d'Esame Ufficiale (15 Dic 2025 - Lab 11): 3 compiti d'esame da 90 min | ✅ Indicizzato |
 | **12. Classi e OOP** | [`12_classi_e_oggetti/01_programmazione_orientata_agli_oggetti.md`](file:///c:/App/PY%20game/wiki/12_classi_e_oggetti/01_programmazione_orientata_agli_oggetti.md) | Classi, `__init__`, `self`, `__str__`, `__repr__`, `__eq__`, `__hash__` per set/dict | ✅ Indicizzato |
+| **13. Archivio Esami Ufficiali** | [`13_archivio_esami_ufficiali/tassonomia_pattern_esame.md`](file:///c:/App/PY%20game/wiki/13_archivio_esami_ufficiali/tassonomia_pattern_esame.md) | **Guida Strategica Definitiva:** Anatomia del compito, i 3 esercizi tipo, i 5 errori fatali | ✅ Indicizzato |
+| | [`13_archivio_esami_ufficiali/compito_2026_01_13.md`](file:///c:/App/PY%20game/wiki/13_archivio_esami_ufficiali/compito_2026_01_13.md) | **Appello 13 Gennaio 2026:** cifre adiacenti, max per lunghezza, agenti vendite | ✅ Indicizzato |
+| | [`13_archivio_esami_ufficiali/compiti_raccolta_completa.md`](file:///c:/App/PY%20game/wiki/13_archivio_esami_ufficiali/compiti_raccolta_completa.md) | **Tutti i Compiti Ufficiali (1-7, varianti A, B, C, D):** 20+ prove con soluzioni | ✅ Indicizzato |
 
 ---
 
 ## 🎮 Statistiche del Dataset Didattico
-- **110+ Problemi Algoritmici ed Esercizi Ufficiali** risolti e pronti all'uso.
-- **Tutti i requisiti del professor Domenico Lembo** (convenzioni di test, corner cases, gestione file CSV malformati, classi custom e dizionari annidati) mappati e formalizzati.
+- **130+ Problemi Algoritmici ed Esercizi Ufficiali** con soluzioni ottimali.
+- **Tutte le 16 prove d'esame ufficiali** storiche catalogate con tassonomia chiara.
+- Benchmark perfetto per la modalità **"Arena Simulatore d'Esame"** della Web App.
