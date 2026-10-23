@@ -1,0 +1,5 @@
+Anthony 30;James 23;Stephen 23;Jimmy 18
+Luka 10;Bradley 21;James 23
+Kareem 18;Magic 24;Shaquille 20;Michael 31
+Anthony 13;Jimmy 20;Luka 33;James 10
+Luka 10;Bradley 20;James 31

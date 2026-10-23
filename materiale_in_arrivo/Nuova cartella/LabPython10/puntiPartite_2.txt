@@ -1,0 +1,6 @@
+Bianchi 20;Bonetti 13;Cicconi 23;Rossi 18;Verdi 31
+Bonetti 10;Cicconi 21
+Bonetti 8;Cicconi 2;Rossi 20;Verdi 31
+Bianchi 13;Bonetti 20
+Bianchi 20;Cicconi 32;Rossi 8
+Bianchi 23;Cicconi 23;Rossi 18

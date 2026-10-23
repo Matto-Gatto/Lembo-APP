@@ -40,19 +40,22 @@
 | | [`08_file_e_filesystem/esercizi_risolti_file.md`](file:///c:/App/PY%20game/wiki/08_file_e_filesystem/esercizi_risolti_file.md) | Esercizi risolti: `stringaMaxFreq`, `copiaRigheFiltro`, `creaListaRighe`, `semprePiuAlto` | ✅ Indicizzato |
 | **09. Dizionari & Tabelle** | [`09_dizionari/01_dizionari_e_metodi.md`](file:///c:/App/PY%20game/wiki/09_dizionari/01_dizionari_e_metodi.md) | Chiave-valore, hashability, `get()`, conteggio frequenze, ordinamento | ✅ Indicizzato |
 | | [`09_dizionari/esercizi_risolti_dizionari.md`](file:///c:/App/PY%20game/wiki/09_dizionari/esercizi_risolti_dizionari.md) | Esercizi risolti: `sommaImporti`, `creaDizionarioAltezze`, `voti`, `infoContatto` | ✅ Indicizzato |
-| **10. Esercitazioni Ufficiali (1-8)** | [`10_esercitazioni_ufficiali/esercitazione_1.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_1.md) | **Es. 1 (6 Ott):** 9 esercizi I/O, tipi, equazioni 2° grado | ✅ Indicizzato |
-| | [`10_esercitazioni_ufficiali/esercitazione_2.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_2.md) | **Es. 2 (13 Ott):** 10 esercizi `if/else`, triangoli, bisestili, Fahrenheit/Celsius | ✅ Indicizzato |
-| | [`10_esercitazioni_ufficiali/esercitazione_3.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_3.md) | **Es. 3 (20 Ott):** 10 esercizi `while`, sentinelle `*`, numeri primi | ✅ Indicizzato |
-| | [`10_esercitazioni_ufficiali/esercitazione_4.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_4.md) | **Es. 4 (27 Ott):** 10 esercizi accumulatori, Fibonacci, catene parole | ✅ Indicizzato |
-| | [`10_esercitazioni_ufficiali/esercitazione_5.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_5.md) | **Es. 5 (3 Nov):** 10 esercizi stringhe, distanze massime, contorni quadrati/diagonali | ✅ Indicizzato |
-| | [`10_esercitazioni_ufficiali/esercitazione_6.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_6.md) | **Es. 6 (10 Nov):** 11 funzioni ufficiali d'esame (`Ex1` - `Ex11`) con return e test | ✅ Indicizzato |
-| | [`10_esercitazioni_ufficiali/esercitazione_7.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_7.md) | **Es. 7 (17 Nov):** 10 funzioni su liste (`Ex1` - `Ex10`): padding, somme Unicode, prefissi | ✅ Indicizzato |
-| | [`10_esercitazioni_ufficiali/esercitazione_8.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_8.md) | **Es. 8 (24 Nov):** 10 funzioni su insiemi/tuple (`Ex1` - `Ex10`): join relazionale, coppie | ✅ Indicizzato |
-| **11. Classi & NumPy** | *In attesa delle dispense* | OOP in Python, classi, costruttore `__init__`, NumPy | ⏳ In attesa |
-| **12. Rappresentazione Dati**| *In attesa delle dispense* | Codifica caratteri e numeri binari senza segno | ⏳ In attesa |
-| **13. Archivio Esami Risolti** | *In attesa delle prove* | Testi d'esame ufficiali con test unitari | ⏳ In attesa |
+| **10. Esercitazioni Ufficiali (1-10, 12)** | [`10_esercitazioni_ufficiali/esercitazione_1.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_1.md) | **Es. 1:** I/O, tipi, equazioni 2° grado | ✅ Indicizzato |
+| | [`10_esercitazioni_ufficiali/esercitazione_2.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_2.md) | **Es. 2:** `if/else`, triangoli, bisestili, Celsius/Fahrenheit | ✅ Indicizzato |
+| | [`10_esercitazioni_ufficiali/esercitazione_3.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_3.md) | **Es. 3:** `while`, sentinelle `*`, numeri primi | ✅ Indicizzato |
+| | [`10_esercitazioni_ufficiali/esercitazione_4.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_4.md) | **Es. 4:** accumulatori, Fibonacci, catene parole | ✅ Indicizzato |
+| | [`10_esercitazioni_ufficiali/esercitazione_5.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_5.md) | **Es. 5:** stringhe, distanze massime, contorni quadrati/diagonali | ✅ Indicizzato |
+| | [`10_esercitazioni_ufficiali/esercitazione_6.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_6.md) | **Es. 6:** 11 funzioni d'esame (`Ex1` - `Ex11`) con return | ✅ Indicizzato |
+| | [`10_esercitazioni_ufficiali/esercitazione_7.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_7.md) | **Es. 7:** 10 funzioni su liste (`Ex1` - `Ex10`): padding, somme Unicode | ✅ Indicizzato |
+| | [`10_esercitazioni_ufficiali/esercitazione_8.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_8.md) | **Es. 8:** 10 funzioni su insiemi/tuple (`Ex1` - `Ex10`): join relazionale, coppie | ✅ Indicizzato |
+| | [`10_esercitazioni_ufficiali/esercitazione_9.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_9.md) | **Es. 9:** 9 funzioni: dizionari, frequenze, coppie di parole, Quadrato Latino | ✅ Indicizzato |
+| | [`10_esercitazioni_ufficiali/esercitazione_10.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_10.md) | **Es. 10:** 9 funzioni: CSV, basket, amici/nemici, IP, codici fiscali, eredità, calcio | ✅ Indicizzato |
+| | [`10_esercitazioni_ufficiali/esercitazione_12.md`](file:///c:/App/PY%20game/wiki/10_esercitazioni_ufficiali/esercitazione_12.md) | **Es. 12 (OOP):** 7 funzioni su classi `Tempo`, `Persona`, `Squadra`, `Partita` | ✅ Indicizzato |
+| **11. Simulazione Prova d'Esame** | [`11_simulazione_esame/simulazione_15_dicembre_2025.md`](file:///c:/App/PY%20game/wiki/11_simulazione_esame/simulazione_15_dicembre_2025.md) | **Prova d'Esame Ufficiale (15 Dic 2025 - Lab 11):** 3 compiti d'esame da 90 min (parola simmetrica, anagrammi incrociati, menù & disponibilità ristorante) | ✅ Indicizzato |
+| **12. Classi e OOP** | [`12_classi_e_oggetti/01_programmazione_orientata_agli_oggetti.md`](file:///c:/App/PY%20game/wiki/12_classi_e_oggetti/01_programmazione_orientata_agli_oggetti.md) | Classi, `__init__`, `self`, `__str__`, `__repr__`, `__eq__`, `__hash__` per set/dict | ✅ Indicizzato |
 
 ---
 
-## 🎮 Integrazione Web App ("Python Duolingo")
-L'archivio contiene ora **80 esercizi ufficiali di laboratorio completi di soluzioni ottimali e casi di test formali**, con una progressione di difficoltà ideale per la gamification.
+## 🎮 Statistiche del Dataset Didattico
+- **110+ Problemi Algoritmici ed Esercizi Ufficiali** risolti e pronti all'uso.
+- **Tutti i requisiti del professor Domenico Lembo** (convenzioni di test, corner cases, gestione file CSV malformati, classi custom e dizionari annidati) mappati e formalizzati.
